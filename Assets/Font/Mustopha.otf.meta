@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: db22b10549702a44f8001c501076672a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mustopha
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 95a3d6a880c94614da3836bc45549785, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
