@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 381670954e2a27c4bbbf2f323e796199, type: 3}
+  m_Name: MainTheme
+  m_EditorClassIdentifier: 
+  primary_BG: {r: 0.22783911, g: 0.23584908, b: 0.22937043, a: 0}
+  primary_text: {r: 1, g: 0.98490566, b: 0.98490566, a: 1}
+  secondary_BG: {r: 0.046760388, g: 0.6698113, b: 0.13477117, a: 0}
+  secondary_text: {r: 1, g: 1, b: 1, a: 1}
+  tertiary_BG: {r: 0, g: 0, b: 0, a: 0}
+  tertiary_text: {r: 0, g: 0, b: 0, a: 1}
+  disable: {r: 0, g: 0, b: 0, a: 0}

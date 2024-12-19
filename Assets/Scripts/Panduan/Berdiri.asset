@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c92917fd21aa8149b7c301258de96da, type: 3}
+  m_Name: Berdiri
+  m_EditorClassIdentifier: 
+  stepName: Berdiri
+  arabicText: "\u0628\u0633\u0645 \u0627\u0644\u0644\u0647 \u0627\u0644\u0631\u062D\u0645\u0646
+    \u0627\u0644\u0631\u062D\u064A\u0645. \u0627\u0644\u062D\u0645\u062F \u0644\u0644\u0647
+    \u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0646 \u0627\u0644\u0631\u062D\u0645\u0627\u0646
+    \u0627\u0644\u0631\u062D\u064A\u0645 . \u0627\u0644\u0645\u0627\u0644\u0643\u064A\u0629
+    \u064A\u0648\u0645 \u0627\u0644\u062F\u064A\u0646. \u0625\u064A\u0627\u0643 \u0646\u0639\u0628\u062F\u0648
+    \u0648\u0625\u064A\u064A\u0627\u0643 \u0646\u0633\u062A\u0639\u064A\u0646. \u0625\u0647\u062F\u064A\u0646\u0627\u0634
+    \u0634\u064A\u0631\u0627\u062A\u0627\u0644 \u0645\u062B\u0642\u064A\u0645."
+  latinText: Bismillahir rahmaa nirrahiim. Alhamdu lilla hi rabbil 'alamin. Ar rahmaanirrahiim.
+    Maaliki yaumiddiin. Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shirraatal
+    musthaqiim. Shiraathal ladziina an'amta 'alaihim ghairil maghduubi 'alaihim waladh-dhaalliin.
+  translation: Dengan nama Allah yang maha pengasih, maha penyayang. Segala puji
+    bagi Allah, tuhan seluruh alam, yang maha pengasih, maha penyayang, pemilik hari
+    pembalasan. Hanya kepada engkaulah kami menyembah dan hanya kepada engkaulah
+    kami mohon pertolongan. Tunjukilah kami jalan yang lurus (yaitu) jalan orang-orang
+    yang telah engkau beri nikmat kepadanya, bukan (jalan) mereka yang dimurkai,
+    dan bukan (pula jalan) mereka yang sesat.
+  animationName: Berdiri
+  stepAudio: {fileID: 8300000, guid: 72c66b7bd87be764fab8cf2fba3441ac, type: 3}
